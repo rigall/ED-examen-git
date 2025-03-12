@@ -1,1 +1,1 @@
-# ED-examen-git-rigall-eloi
+# ED-examen-git
